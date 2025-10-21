@@ -14,7 +14,7 @@ and in-depth guides and changes that will be applied to this project, dont expec
 
 Please, fell free to open an Issue if you have any questions or want to help me improve this project, it would really help me and i'm sure that it will help others too.
 
-[![Instagram Post Preview]()](https://www.instagram.com/p/DDE29yARjyL/)
+[![Instagram Post Preview](media/video.mp4)](https://www.instagram.com/p/DDE29yARjyL/)
 
 ---
 
