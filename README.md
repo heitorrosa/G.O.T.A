@@ -1,4 +1,4 @@
-# Gota
+# G.O.T.A
 
 A continuation of my Elementary School's Final Paper for creating a Hydric Drone using the Arduino ecosystem called G.O.T.A (Gotejador Orientado por Técnologia Aérea), now with the help of a ground station using the LoRa environment
 and in-depth guides and changes that will be applied to this project, dont expect many commits, its just my personal project and will have its pace determined on how engaged I am with paying lots of money for hardware from AliExpress, lol.
