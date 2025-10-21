@@ -14,7 +14,7 @@ and in-depth guides and changes that will be applied to this project, dont expec
 
 Please, fell free to open an Issue if you have any questions or want to help me improve this project, it would really help me and i'm sure that it will help others too.
 
-<a href="https://www.instagram.com/p/DDE29yARjyL/">
+<a href="https://www.instagram.com/p/DDE29yARjyL/" target="_blank">
   <img src="media/video.gif" alt="Instagram Post Preview" width="333"/>
 </a>
 
