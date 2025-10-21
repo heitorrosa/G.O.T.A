@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "Reciever"
+			"path": "src/Reciever"
 		},
 		{
-			"path": "Transmitter"
+			"path": "src/Transmitter"
 		}
 	],
 	"launch": {
