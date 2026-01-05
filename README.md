@@ -20,5 +20,5 @@ Please, fell free to open an Issue if you have any questions or want to help me 
 
 ---
 
-### License
+## License
 This project is under the GPL 3.0 License from June, 29th 2007.
